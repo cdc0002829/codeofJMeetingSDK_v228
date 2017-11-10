@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">JMeetingSDK</string>
+    <string name="meeting_room_bg_tip">暂无人发言,快快发言吧！</string>
+    <string name="unnamed">未命名</string>
+    <string name="videoCall">视频客服</string>
+    <string name="invitedtoattendtheconsultation">" 邀请您参加会诊"</string>
+    <string name="invitedtoattendthemeeting">" 邀请您参加会议"</string>
+    <string name="unnormalStateofMeeting">会议状态异常</string>
+    <string name="startmeeting">开始会议</string>
+    <string name="videoMeeting">正在视频会议</string>
+    <string name="notification_title">红云医疗</string>
+    <string name="notification_message">会诊聊天中，轻触以继续</string>
+
+</resources>

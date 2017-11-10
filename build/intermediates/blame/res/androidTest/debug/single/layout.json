@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cpnt_emotionl.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\cpnt_emotionl.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_item_master_set_users.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_menu_item_master_set_users.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\switch_video_mode_item.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\switch_video_mode_item.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_share_screen_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_share_screen_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_live_dialog.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_live_dialog.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_ask_for_stop_speak_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_ask_for_stop_speak_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_invite_person_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_invite_person_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\camera_popwindow.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\camera_popwindow.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_custom_operate_dialog.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_custom_operate_dialog.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_loading_dialog.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_loading_dialog.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_episode_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\popwindowmode.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\popwindowmode.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_chat_receive.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_chat_receive.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_item_auto_suit_info.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_menu_item_auto_suit_info.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_main_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_main_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_qos_item_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_qos_item_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_media_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_media_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_main_button_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_main_button_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_test.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_grid.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\emojicon_grid.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_give_mic_view_list_item.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_give_mic_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_activity_meeting_room.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_activity_meeting_room.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_auto_suit_info_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_menu_auto_suit_info_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_button_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_episode_button_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_participators_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_participators_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_qos_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_qos_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_mainview.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_mainview.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_choose_window_item.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_choose_window_item.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_test.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_test.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_menu_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_menu_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\page_load_header.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\page_load_header.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_view_camera.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_view_camera.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_multi_speaker_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_multi_speaker_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_invite_person_view_list_item.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_invite_person_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_toast_layout.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_toast_layout.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_episode_reminder.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_episode_reminder.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_give_mic_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_give_mic_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_barrage_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_barrage_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_participator_view_list_item.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_participator_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\emojicon_item.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\emojicon_item.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_ask_for_speak_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_ask_for_speak_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\switch_video_mode.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\switch_video_mode.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_video_off_auto_reminder.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_video_off_auto_reminder.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_speaker_info_reminder.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_speaker_info_reminder.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_live_share_dialog.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_live_share_dialog.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_exit_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_exit_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_msg.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_msg.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_menu_master_set_user_speak_view.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_menu_master_set_user_speak_view.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_chat_send.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_chat_send.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\meeting_room_menu_share_doc_reminder.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\meeting_room_menu_share_doc_reminder.xml"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\jmeetingsdk_invite_dialog.xml",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\exploded-aar\\ButelMedical\\mobileMeetingLib\\unspecified\\res\\layout\\jmeetingsdk_invite_dialog.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\raw\\jmeetingsdk_request_speak.ogg",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\src\\main\\res\\raw\\jmeetingsdk_request_speak.ogg"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\raw\\jmeetingsdk_join.ogg",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\src\\main\\res\\raw\\jmeetingsdk_join.ogg"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\raw\\jmeetingsdk_incoming.ogg",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\src\\main\\res\\raw\\jmeetingsdk_incoming.ogg"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\raw\\jmeetingsdk_begin_speak.ogg",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\src\\main\\res\\raw\\jmeetingsdk_begin_speak.ogg"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\raw\\jmeetingsdk_exit.ogg",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\src\\main\\res\\raw\\jmeetingsdk_exit.ogg"
+    },
+    {
+        "merged": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\build\\intermediates\\res\\merged\\release\\raw\\jmeetingsdk_invite.ogg",
+        "source": "E:\\Perforce\\005_Medical\\android\\src\\ButelMedical\\codeofJMeetingSDK_v228\\src\\main\\res\\raw\\jmeetingsdk_invite.ogg"
+    }
+]
